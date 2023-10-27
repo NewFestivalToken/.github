@@ -1,7 +1,3 @@
-Certainly, here is a sample README file for NewFestivalToken in both English and Spanish:
-
-**README.md**
-
 **English Version:**
 
 # NewFestivalToken
